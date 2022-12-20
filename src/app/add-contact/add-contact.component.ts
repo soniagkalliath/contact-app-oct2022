@@ -21,6 +21,7 @@ export class AddContactComponent implements OnInit {
   }
 
   addContact(){
-
+    console.log('add contact');
+    
   }
 }
